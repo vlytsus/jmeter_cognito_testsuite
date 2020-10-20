@@ -9,4 +9,5 @@ Recently Postman become one of most popular UI clients to test API services. But
 * Automatic Cognito user registration
 * Automatic Cognito login and aquiring authentication token
 * Nice execution request/response statistic
+* Several predefined development environments DEV,QA,STAGE,PROD
 
