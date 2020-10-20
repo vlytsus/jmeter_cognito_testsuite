@@ -12,3 +12,4 @@ Recently Postman become one of most popular UI clients to test API services. But
 * Nice execution request/response statistic
 * Several predefined development environments DEV,QA,STAGE,PROD
 
+![Jmeter](screenshot.png?raw=true "Jmeter Test Suite")
