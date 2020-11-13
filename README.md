@@ -1,5 +1,5 @@
-# Jmeter Cognito Testsuite
-Jemeter Testsuite for Cognito secured API services
+# JMeter Cognito Testsuite
+JMeter Testsuite for Cognito secured API services
 
 Amazon Cognito is very popular identity provider that supports Oauth 2.0, SAML 2.0, OpenID and multi-factor authentication features.
 One of most popular features of cognito is hosted login page. You don't need to create your own login service & UI to implement authentication.
